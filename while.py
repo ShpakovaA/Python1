@@ -6,3 +6,4 @@ def function (a):
     elif a < 10:
         print(a, "пока что нет")
 function (3)
+
