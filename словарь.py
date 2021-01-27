@@ -1,7 +1,7 @@
-a = (input("Введите слово "))
-b = (input("Введите значение "))
-def new_word (a,b):
+A = (input("Введите слово "))
+B = (input("Введите значение "))
+def new_word (A,B):
     d={}
-    d[a]=b
+    d[A]=B
     print(d)
-new_word (a,b)
+new_word (A,B)
