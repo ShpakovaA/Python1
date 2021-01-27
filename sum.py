@@ -4,4 +4,4 @@ def function (num):
         sum = sum + num % 10
         num = num // 10
     print("Сумма цифр числа равна: ", sum)
-function(850)
+function(797)
